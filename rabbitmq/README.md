@@ -11,3 +11,5 @@
 
 
 #### localhost:15672 접속 후 확인
+ID : admin
+PW : 1234
